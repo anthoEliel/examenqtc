@@ -22,7 +22,7 @@ public class ItemService {
         for (Item item : items) {
             titles.add(item.getTitle());
         }
-
+//fin
         return titles;
     }
 }
